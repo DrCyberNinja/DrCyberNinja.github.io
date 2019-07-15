@@ -17,7 +17,7 @@ linkedin_public_url: www.linkedin.com/in/jdoc
 links:
   section_1:
     -title: home
-     url: /
+     url: /home
      key_trigger: 1
     -title: my posts
      url: /posts
