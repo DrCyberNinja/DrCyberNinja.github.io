@@ -3,7 +3,7 @@ remote_theme: DrCyberNinja/space-jekyll-template
 #Site Settings
 desctiption: 
 baseurl: /
-url: https://drcyberninja.github.io
+url: 'https://drcyberninja.github.io'
 
 #UserSettings
 username: DrCyberNinja
