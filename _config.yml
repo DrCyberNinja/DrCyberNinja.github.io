@@ -12,6 +12,11 @@ twitter_username: DrCyberNinja
 github_username: DrCyberNinja
 linkedin_public_url: www.linkedin.com/in/jdoc
 
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
 
 #Links to include in menu navigation
 links:
